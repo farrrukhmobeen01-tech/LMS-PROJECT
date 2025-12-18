@@ -1,0 +1,15 @@
+2
+saima
+123
+saima
+Saima
+aleem
+123
+aleem
+Aleem
+FACULTY_ALLOCS
+saima
+1
+CS101
+aleem
+0
